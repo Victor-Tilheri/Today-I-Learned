@@ -4,6 +4,6 @@ Esse repositório é dedicado para postar todo o conhecimento que adquiri atrav�
 
 ## Sumário
 
-- Cloud
--- [Amazon Web Services](https://github.com/Victor-Tilheri/Today-I-Learned/tree/main/cloud)
+- [Cloud](https://github.com/Victor-Tilheri/Today-I-Learned/tree/main/cloud)
+    [Amazon Web Services](https://github.com/Victor-Tilheri/Today-I-Learned/tree/main/cloud)
 - [Java](https://github.com/Victor-Tilheri/Today-I-Learned/tree/main/Java)
