@@ -1,6 +1,6 @@
 
 # Amazon EC2
 
-Through EC2 from Amazon, developers can host and manage web services using cloud with a lot of operating system options to work with.
+Por meio do EC2 da Amazon, desenolvedores podem hospedar e gerenciar web services usando a nuvem com diversas opções de sistemas operacionais para trabalhar.
 
-This system can delivery your API to the internet with an fix IP and allow you to monitoring and debug the system in production.
+Esse sistema pode entregar sua API via internet utilizando um IP fixo e permitindo você, monitorar e debugar a aplicação em tempo real.
