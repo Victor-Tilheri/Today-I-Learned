@@ -1,3 +1,3 @@
 #ArrayList
 
-ArrayList is a type of data structure that can hold many variables in memory.
+ArrayList é a classe responsável pela instanciação de um vetor no Java.
