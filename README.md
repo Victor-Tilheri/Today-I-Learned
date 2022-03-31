@@ -1,9 +1,9 @@
 # Today I Learned
 
-Esse repositório é dedicado para postar todo o conhecimento que adquiri através de meus estudos diários.
+This repository is dedicated to post every new knowledge that I've acquired by my daily studies.
 
-## Sumário
+## Summary
 
 - [Cloud](https://github.com/Victor-Tilheri/Today-I-Learned/tree/main/cloud)
-    - [Amazon Web Services](https://github.com/Victor-Tilheri/Today-I-Learned/tree/main/cloud)
+    - [Amazon Web Services](https://github.com/Victor-Tilheri/Today-I-Learned/tree/main/Cloud)
 - [Java](https://github.com/Victor-Tilheri/Today-I-Learned/tree/main/Java)
